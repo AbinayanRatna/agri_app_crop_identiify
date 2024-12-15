@@ -29,6 +29,7 @@ matplotlib==3.9.4
 mdurl==0.1.2
 ml-dtypes==0.4.1
 namex==0.0.8
+numpy==1.7.0
 opt_einsum==3.4.0
 optree==0.13.1
 packaging==24.2
@@ -42,7 +43,6 @@ pytz==2024.2
 requests==2.32.3
 rich==13.9.4
 scikit-learn==0.13.1
-numpy==1.7.0
 scipy==0.11.0
 six==1.17.0
 tensorboard==2.18.0
